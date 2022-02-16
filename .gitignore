@@ -1,0 +1,15 @@
+wp-config.php
+default.html
+error_log
+wp-content/uploads
+.htaccess
+.well-known
+cgi-bin
+
+#ignorar os diretorios dependentes do node
+node_modules/
+
+#ignorar os ficheiros de log e as databases
+*.log
+*.sql
+*.sqlite
