@@ -6,10 +6,10 @@ wp-content/uploads
 .well-known
 cgi-bin
 
-#ignorar os diretorios dependentes do node
+# ignorar os diretorios dependentes do node
 node_modules/
 
-#ignorar os ficheiros de log e as databases
+# ignorar os ficheiros de log e as databases
 *.log
 *.sql
 *.sqlite
